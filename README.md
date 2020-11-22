@@ -7,3 +7,5 @@ My name is **Rohini Barla**. I take _Gateway to R&D_ classes.
 Here are our students who got selected in Amazon company.
 
 ![Our students selected in Amazon](our-students-photo.jpg)
+
+![enjoyment in my college](sathwik.jpg)
