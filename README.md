@@ -1,11 +1,12 @@
 # Welcome to my website!
 
-As part of markdown format we have already seen few things in the class. Now we see how to set some text to **bold** or _italic_ and add image to the website.
+this is the first picture i have taken in my college days. 
 
-My name is **Rohini Barla**. I take _Gateway to R&D_ classes.
+This bike and me have some special affection. Because we do a lot of naughty things with this.
 
-Here are our students who got selected in Amazon company.
+we used to go to college in this bike. three of my friends also used this along with me.
 
-![Our students selected in Amazon](our-students-photo.jpg)
+![this is my first enjoyment](sathwik.jpg)
 
-![enjoyment in my college](sathwik.jpg)
+
+
